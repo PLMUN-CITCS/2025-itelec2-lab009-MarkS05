@@ -1,4 +1,4 @@
-user_input = input("Enter a number: 10")
+user_input = input("Enter a number: 9")
 number = int(user_input)
 if number % 2 == 0:
     print("The number", number, "is Even.")
